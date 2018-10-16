@@ -13,7 +13,7 @@ from deap import base
 from deap import creator
 from deap import tools
 
-tmp_file = "/Users/vaishalijayaraman/Documents/codes/research/tmp.txt"
+tmp_file = "tmp.txt"
 
 blender = "/Applications/blender.app/Contents/MacOS/blender"
 formObjectAndgetVerticespy = "/Applications/blender.app/Contents/MacOS/formObjectAndgetVertices.py"
